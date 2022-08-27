@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="36.841">
-<testcase classname="Test Case Scenarios" name="give plus point to the review" time="36.638">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.585">
+<testcase classname="Test Case Scenarios" name="give plus point to the review" time="20.399">
 <system-out><![CDATA[Given verify that homepage is open..........................................passed
 When I search for 'samsung'.................................................passed
 And I click on product number '2' in the search result page.................passed
