@@ -9,3 +9,6 @@
 #allure
 /allure/
 /allure-report/
+/target/
+/.idea/
+
