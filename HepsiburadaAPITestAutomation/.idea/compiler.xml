@@ -9,5 +9,8 @@
         <module name="HepsiburadaAPITestAutomation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HepsiburadaAPITestAutomation" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

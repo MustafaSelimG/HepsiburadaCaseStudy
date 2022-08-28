@@ -1,6 +1,5 @@
 utils\Driver.class
 pages\SearchResultPage.class
 helpers\Helper.class
-runners\CucumberRunner.class
 pages\ProductPage.class
 pages\Homepage.class
