@@ -8,4 +8,4 @@
 
 ## Case 4 - Bug Report  [➡](https://github.com/MustafaSelimG/HepsiburadaCaseStudy/tree/main/BugReport)
 
-## Bonus  [➡]()
+## Bonus  [➡](https://github.com/MustafaSelimG/HepsiburadaCaseStudy/blob/main/Bonus.docx)
