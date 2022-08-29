@@ -9,8 +9,7 @@
   "authorizationValue": {
     "value": "string",
     "type": "string",
-    "keyName": "string",
-    "urlMatcher": {}
+    "keyName": "string"
   },
   "securityDefinition": {
     "type": "string",
