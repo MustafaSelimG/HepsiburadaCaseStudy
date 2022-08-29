@@ -23,6 +23,6 @@
 
 </br></br>
 
-Generates a html report after the case</br>
+**Generates a html report after the case**</br>
 
 ![report](https://user-images.githubusercontent.com/88919177/187027190-25d35a20-ac82-48af-8e09-a0cd1f4be566.gif)
