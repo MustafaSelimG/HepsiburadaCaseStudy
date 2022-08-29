@@ -14,10 +14,10 @@
 
 **You can run the program from TestRunner**</br>
 
-![apitest](https://user-images.githubusercontent.com/88919177/187071719-cafc261f-b639-4a90-878b-4306b71af140.gif)
+![apitest](https://user-images.githubusercontent.com/88919177/187152669-397869c1-063b-4c97-88bb-ad6217a1c6f5.gif)
 
 </br>
 
 Generates a html report with **'allure generate target/allure-results --clean -o allure-report'** command in terminal after the case</br>
 
-![report](https://user-images.githubusercontent.com/88919177/187071839-c0127342-2632-4a62-a8fb-a210f4c89b91.gif)
+![report](https://user-images.githubusercontent.com/88919177/187152699-a0aa5246-e429-45ba-940d-d14c9eebb455.gif)
